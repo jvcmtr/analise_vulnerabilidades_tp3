@@ -1,0 +1,8 @@
+
+# Variaveis de ambiente
+venv/
+.env
+
+# Arquivos temporarios
+**.temp**
+**.output.txt
